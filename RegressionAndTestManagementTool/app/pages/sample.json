@@ -1,0 +1,16 @@
+{
+    "all_workflows": [
+        {
+            "okrs_automation_tests": null
+        },
+        [
+            "Whiteboard e2e tests"
+        ],
+        [
+            "Workflow dispatch - Teamtap E2E tests"
+        ],
+        [
+            "insights_automation_tests"
+        ]
+    ]
+}

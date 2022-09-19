@@ -1,0 +1,184 @@
+{"regression": {
+  "test_1": {
+    "test_name": "1st test",
+    "pre_requisite": "strategy should be available",
+    "test_steps": [
+      "this is step 1",
+      "this is step 2",
+      "this is step 3"
+    ],
+    "required_apis": [
+      "api 1",
+      "api 2",
+      "api 3"
+    ],
+    "comments": "test comment"
+  },
+  "test_2": {
+    "test_name": "2nd test",
+    "pre_requisite": "strategy should be available",
+    "test_steps": [
+      "this is step 4",
+      "this is step 5",
+      "this is step 6"
+    ],
+    "required_apis": [
+      "api 1",
+      "api 2",
+      "api 3"
+    ],
+    "comments": "test comment"
+  },
+  "test_3": {
+    "test_name": "3rd test",
+    "pre_requisite": "strategy should be available",
+    "test_steps": [
+      "this is step 1",
+      "this is step 2",
+      "this is step 3"
+    ],
+    "required_apis": [
+      "api 1",
+      "api 2",
+      "api 3"
+    ],
+    "comments": "test comment"
+  },
+  "test_4": {
+    "test_name": "4th test",
+    "pre_requisite": "strategy should be available",
+    "test_steps": [
+      "this is step 4",
+      "this is step 5",
+      "this is step 6"
+    ],
+    "required_apis": [
+      "api 1",
+      "api 2",
+      "api 3"
+    ],
+    "comments": "test comment"
+  },
+  "test_5": {
+    "test_name": "5th Test",
+    "pre_requisite": "strategy should be available",
+    "test_steps": [
+      "this is step 1",
+      "this is step 2",
+      "this is step 3"
+    ],
+    "required_apis": [
+      "api 1",
+      "api 2",
+      "api 3"
+    ],
+    "comments": "test comment"
+  },
+  "test_6": {
+    "test_name": "6th Test",
+    "pre_requisite": "strategy should be available",
+    "test_steps": [
+      "this is step 4",
+      "this is step 5",
+      "this is step 6"
+    ],
+    "required_apis": [
+      "api 1",
+      "api 2",
+      "api 3"
+    ],
+    "comments": "test comment"
+  },
+  "test_7": {
+    "test_name": "7th test",
+    "pre_requisite": "strategy should be available",
+    "test_steps": [
+      "this is step 1",
+      "this is step 2",
+      "this is step 3"
+    ],
+    "required_apis": [
+      "api 1",
+      "api 2",
+      "api 3"
+    ],
+    "comments": "test comment"
+  },
+  "test_8": {
+    "test_name": "8th test",
+    "pre_requisite": "strategy should be available",
+    "test_steps": [
+      "this is step 4",
+      "this is step 5",
+      "this is step 6"
+    ],
+    "required_apis": [
+      "api 1",
+      "api 2",
+      "api 3"
+    ],
+    "comments": "test comment"
+  },
+  "test_9": {
+    "test_name": "9th test",
+    "pre_requisite": "strategy should be available",
+    "test_steps": [
+      "this is step 1",
+      "this is step 2",
+      "this is step 3"
+    ],
+    "required_apis": [
+      "api 1",
+      "api 2",
+      "api 3"
+    ],
+    "comments": "test comment"
+  },
+  "test_10": {
+    "test_name": "10th test",
+    "pre_requisite": "strategy should be available",
+    "test_steps": [
+      "this is step 4",
+      "this is step 5",
+      "this is step 6"
+    ],
+    "required_apis": [
+      "api 1",
+      "api 2",
+      "api 3"
+    ],
+    "comments": "test comment"
+  },
+  "test_11": {
+    "test_name": "11th test",
+    "pre_requisite": "strategy should be available",
+    "test_steps": [
+      "this is step 1",
+      "this is step 2",
+      "this is step 3"
+    ],
+    "required_apis": [
+      "api 1",
+      "api 2",
+      "api 3"
+    ],
+    "comments": "test comment"
+  },
+  "test_12": {
+    "test_name": "12th test",
+    "pre_requisite": "strategy should be available",
+    "test_steps": [
+      "this is step 4",
+      "this is step 5",
+      "this is step 6"
+    ],
+    "required_apis": [
+      "api 1",
+      "api 2",
+      "api 3"
+    ],
+    "comments": "test comment"
+  }
+}
+}
+

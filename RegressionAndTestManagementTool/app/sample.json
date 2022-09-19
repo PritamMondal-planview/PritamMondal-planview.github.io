@@ -1,0 +1,52 @@
+{
+    "OKR Jobs": {
+        "run_ui_tests": {
+            "status": "success",
+            "job_id": 8151822536,
+            "html_url": "https://github.com/pv-platforma/platforma-automation/runs/8151822536?check_suite_focus=true",
+            "comments": null
+        },
+        "run_api_tests": {
+            "status": "failure",
+            "job_id": 8151822726,
+            "html_url": "https://github.com/pv-platforma/platforma-automation/runs/8151822726?check_suite_focus=true",
+            "comments": "this is a test comment --- heyaaa : Pritam : 2022-09-02"
+        },
+        "leankit_cleanup": {
+            "status": "skipped",
+            "job_id": 8151900472,
+            "html_url": "https://github.com/pv-platforma/platforma-automation/runs/8151900472?check_suite_focus=true",
+            "comments": "this is a test comment --- heyaaa : Pritam : 2022-09-02"
+        }
+    },
+    "White Board Jobs": {
+        "Run Whiteboard E2E tests": {
+            "status": "success",
+            "job_id": 8155680406,
+            "html_url": "https://github.com/pv-platforma/platforma-automation/runs/8155680406?check_suite_focus=true",
+            "comments": null
+        }
+    },
+    "Tap Jobs": {
+        "Get matrix for the project": {
+            "status": "success",
+            "job_id": 8155695132,
+            "html_url": "https://github.com/pv-platforma/platforma-automation/runs/8155695132?check_suite_focus=true",
+            "comments": null
+        },
+        "Run cypress tests (TeamTap, pv-platforma/teamtap-api, teamtap-api, temp-teamtap-jwt-secret-tempor...": {
+            "status": "success",
+            "job_id": 8155700210,
+            "html_url": "https://github.com/pv-platforma/platforma-automation/runs/8155700210?check_suite_focus=true",
+            "comments": null
+        }
+    },
+    "Insight Jobs": {
+        "run_api_tests": {
+            "status": "failure",
+            "job_id": 4017521188,
+            "html_url": "https://github.com/pv-platforma/platforma-automation/runs/4017521188?check_suite_focus=true",
+            "comments": null
+        }
+    }
+}

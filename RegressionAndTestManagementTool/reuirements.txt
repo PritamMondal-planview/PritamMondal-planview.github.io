@@ -1,0 +1,109 @@
+altair==4.2.0
+appnope==0.1.3
+asttokens==2.0.8
+attrs @ file:///Users/pritam.mondal/Library/Caches/pypoetry/artifacts/62/f0/59/eeccc31c495183d61944cc7da7adc89fecd84f334e12642effe639ec20/attrs-22.1.0-py2.py3-none-any.whl
+backcall==0.2.0
+blinker==1.5
+cachetools==5.2.0
+cairocffi==1.3.0
+CairoSVG==2.5.2
+certifi @ file:///Users/pritam.mondal/Library/Caches/pypoetry/artifacts/b0/0d/df/4aa04d9b421fc5f1438b55d4b37516d21ef0ba40158bf7f9dfb28122ca/certifi-2022.6.15-py3-none-any.whl
+cffi==1.15.1
+charset-normalizer @ file:///Users/pritam.mondal/Library/Caches/pypoetry/artifacts/bf/59/3f/6838dadc818c6595ae4a00c31af0da89039c1eaa370871d38072845e8d/charset_normalizer-2.1.0-py3-none-any.whl
+click @ file:///Users/pritam.mondal/Library/Caches/pypoetry/artifacts/9d/ca/2f/bc3cc4a294e96f355d01d24ac6fefdde4c6286f9f63b7ce1c91d5f0c22/click-8.1.3-py3-none-any.whl
+commonmark==0.9.1
+coverage @ file:///Users/pritam.mondal/Library/Caches/pypoetry/artifacts/23/61/c0/d1031dc23955e7c2a87c55719ba2753399ad8c1b26b2eb60d14a0c1a92/coverage-6.4.3-cp39-cp39-macosx_11_0_arm64.whl
+coveralls @ file:///Users/pritam.mondal/Library/Caches/pypoetry/artifacts/9f/93/24/62794cfbee18019a3cdef36b610b1d9f5e6ed6995d0821675dc33c0114/coveralls-3.3.1-py2.py3-none-any.whl
+cssselect2==0.6.0
+debugpy==1.6.3
+decorator==5.1.1
+deepdiff @ file:///Users/pritam.mondal/Library/Caches/pypoetry/artifacts/33/7e/9d/e02a8293d6a2bf33f8703fdde077895237c222368905f933e79c4556bd/deepdiff-5.5.0-py3-none-any.whl
+defusedxml==0.7.1
+docopt @ file:///Users/pritam.mondal/Library/Caches/pypoetry/artifacts/62/59/95/15eae6f8c50ce007785835b8aa0679822968e1f7fdb53964bf2ac50671/docopt-0.6.2.tar.gz
+entrypoints==0.4
+et-xmlfile==1.1.0
+executing==0.10.0
+future @ file:///Users/pritam.mondal/Library/Caches/pypoetry/artifacts/f8/58/55/86be1f567b212fdd98854d12815964a49db8fb1bcff725018e5f95c61d/future-0.18.2.tar.gz
+gitdb==4.0.9
+GitPython==3.1.27
+glob2==0.7
+idna @ file:///Users/pritam.mondal/Library/Caches/pypoetry/artifacts/d5/04/80/9c17fd3240a37d12ff2ef042b0306aeb1abd2d8b95f150fd60be938352/idna-3.3-py3-none-any.whl
+importlib-metadata==4.12.0
+iniconfig @ file:///Users/pritam.mondal/Library/Caches/pypoetry/artifacts/fa/b0/c6/10cfac68c9e6de9d2a1678366ca89fd9292b362c1760dbe758e41691cb/iniconfig-1.1.1-py2.py3-none-any.whl
+ipykernel==6.15.1
+ipython==8.4.0
+ipywidgets==8.0.1
+jedi==0.18.1
+Jinja2==3.1.2
+jsonschema==4.13.0
+junitparser @ file:///Users/pritam.mondal/Library/Caches/pypoetry/artifacts/80/50/cd/e37d527f212186ba458637441764555d17b9636aeca9a4adb9a7a9f779/junitparser-2.0.0-py2.py3-none-any.whl
+jupyter-client==7.3.4
+jupyter-core==4.11.1
+jupyterlab-widgets==3.0.2
+lxml @ file:///Users/pritam.mondal/Library/Caches/pypoetry/artifacts/44/67/94/06bea709fa369de299048cba36c38c08e1de3e7f1bbd2915cc828b60bb/lxml-4.6.3.tar.gz
+Mako==1.2.1
+MarkupSafe==2.1.1
+matplotlib-inline==0.1.6
+nest-asyncio==1.5.5
+numpy==1.23.2
+openpyxl==3.0.10
+ordered-set @ file:///Users/pritam.mondal/Library/Caches/pypoetry/artifacts/61/fd/b1/fbcdf1e322e59a0d8087f63e31ad4740398f3a80184bfb2613c07d2664/ordered-set-4.0.2.tar.gz
+packaging @ file:///Users/pritam.mondal/Library/Caches/pypoetry/artifacts/47/3f/ce/b240169f7d8bef1ff24a0269b709721ce86543c2ec25e0b6adb2c2d7ac/packaging-21.3-py3-none-any.whl
+pandas==1.4.3
+parse==1.19.0
+parse-type==0.6.0
+parso==0.8.3
+pexpect==4.8.0
+pickleshare==0.7.5
+Pillow==9.2.0
+pluggy @ file:///Users/pritam.mondal/Library/Caches/pypoetry/artifacts/81/78/ca/13f743a3628faf5a0b7f021efb45f2193acba3a13663d498f6b34bf02e/pluggy-1.0.0-py2.py3-none-any.whl
+prompt-toolkit==3.0.30
+protobuf==3.20.1
+psutil==5.9.1
+ptyprocess==0.7.0
+pure-eval==0.2.2
+py @ file:///Users/pritam.mondal/Library/Caches/pypoetry/artifacts/b3/5c/47/ba5a596e01a2b61fa2daa6a438252483ad8c04e6c99e5dc22eaf8a489a/py-1.11.0-py2.py3-none-any.whl
+pyarrow==9.0.0
+pycparser==2.21
+pydeck==0.7.1
+Pygments==2.13.0
+PyJWT @ file:///Users/pritam.mondal/Library/Caches/pypoetry/artifacts/73/c0/4c/194d7fba4fd22ace86260631f33d584545560e0da39981058013f8ac7e/PyJWT-1.7.1-py2.py3-none-any.whl
+Pympler==1.0.1
+pyparsing @ file:///Users/pritam.mondal/Library/Caches/pypoetry/artifacts/c9/49/7b/434b2668226040d1097efcdddb802b28d05b02854b659ac17913a9a90c/pyparsing-3.0.9-py3-none-any.whl
+pyrsistent==0.18.1
+pytest @ file:///Users/pritam.mondal/Library/Caches/pypoetry/artifacts/28/be/f1/ce8fa22c989106fc7c1ee7fa31d55d7f31aee1c58c63b2a43670601b79/pytest-6.2.5-py3-none-any.whl
+pytest-bdd==6.0.1
+pytest-json-report @ file:///Users/pritam.mondal/Library/Caches/pypoetry/artifacts/7d/ac/77/7c1750707ade8984c0c08f863d9b6618b1c8aec65d9f0d2b8090d43ff7/pytest_json_report-1.3.0-py3-none-any.whl
+pytest-metadata @ file:///Users/pritam.mondal/Library/Caches/pypoetry/artifacts/4e/28/76/5f3f634bc742c8059f4dddb43d3722e4cd67350849922f2abd679b7be9/pytest_metadata-2.0.2-py3-none-any.whl
+pytest-rerunfailures @ file:///Users/pritam.mondal/Library/Caches/pypoetry/artifacts/9d/ed/0c/670b26302b4711ad3e91d4d922562053d75758e8490de458e21f5ab50d/pytest_rerunfailures-10.0-py3-none-any.whl
+python-dateutil==2.8.2
+pytz==2022.2.1
+pytz-deprecation-shim==0.1.0.post0
+PyYAML @ file:///Users/pritam.mondal/Library/Caches/pypoetry/artifacts/4a/f4/03/07b8639f883fbaa6f6c0c9af133435a163e11ddcb00ebab6ec3daa09df/PyYAML-5.4.1.tar.gz
+pyzmq==23.2.1
+reportlab==3.6.11
+requests @ file:///Users/pritam.mondal/Library/Caches/pypoetry/artifacts/96/68/40/1b2019f1ca6a6d07b2a3107daab4dca1e11111be3af28a435f7cd0463a/requests-2.28.1-py3-none-any.whl
+rich==12.5.1
+semver==2.13.0
+six @ file:///Users/pritam.mondal/Library/Caches/pypoetry/artifacts/08/9f/47/c16ae03035fc69eaf100ea39657a49baaeef714e25a52575710c34cd48/six-1.16.0-py2.py3-none-any.whl
+smmap==5.0.0
+stack-data==0.4.0
+streamlit==1.12.0
+streamlit-option-menu==0.3.2
+svglib==1.4.1
+tenacity @ file:///Users/pritam.mondal/Library/Caches/pypoetry/artifacts/21/10/40/d46461cfc28f6273f951df7ee384035cb663bd3234dab6a54bd94704bb/tenacity-6.3.1-py2.py3-none-any.whl
+tinycss2==1.1.1
+toml @ file:///Users/pritam.mondal/Library/Caches/pypoetry/artifacts/6b/6a/c9/53b19f7870a77d855e8b05ecdc98193944e5d246dafe11bbcad850ecba/toml-0.10.2-py2.py3-none-any.whl
+toolz==0.12.0
+tornado==6.2
+traitlets==5.3.0
+typer @ file:///Users/pritam.mondal/Library/Caches/pypoetry/artifacts/17/36/38/64bf50a1515533fa1a0796db8a897af25f9de036ea4edb9f6f6f718b40/typer-0.4.2-py3-none-any.whl
+typing_extensions==4.3.0
+tzdata==2022.2
+tzlocal==4.2
+urllib3 @ file:///Users/pritam.mondal/Library/Caches/pypoetry/artifacts/30/26/bc/2eb29ccbecde8a15ec98499d4c18d6cd2316febdce851786c0cca22bde/urllib3-1.26.11-py2.py3-none-any.whl
+validators==0.20.0
+wcwidth==0.2.5
+webencodings==0.5.1
+widgetsnbextension==4.0.2
+zipp==3.8.1
